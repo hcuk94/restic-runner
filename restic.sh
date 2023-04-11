@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -l
 
 # Variables
 MAIL_FROM=restic@example.com
